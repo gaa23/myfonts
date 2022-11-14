@@ -2,4 +2,6 @@
     font-family: 'Bodoni';
     src: url('https://cdn.rawgit.com/gaa23/myfonts/blob/main/BOD_R.TTF')
          format('truetype');
+         font-weight: normal;
+         font-style: normal;
 }
